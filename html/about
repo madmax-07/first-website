@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Affordable and professional web design">
+    <meta name="keywords" content="web design, affordable web design, professional web design">
+    <meta name="author" content="Brad Traversy">
+    <title>About US</title>
+    <link rel="stylesheet" href="./css/style2.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Acme</span> Web Design</h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+   
+
+    <section id="newsletter">
+      <div class="container">
+        <h1>Subscribe To Our Newsletter</h1>
+        <form>
+          <input type="email" placeholder="Enter Email...">
+          <button type="submit" class="button_1">Subscribe</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="main">
+      <div class="container">
+      <article id="main-col">
+        <h1 class="page-title">ABOUT US</h1>
+        <p>Sed hendrerit urna justo, placerat pretium magna laoreet tincidunt. Praesent auctor arcu lectus, sit amet gravida erat imperdiet dignissim. Cras nec lorem ac mi luctus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rhoncus in nulla vel gravida. Curabitur massa est, sagittis quis dictum eget, laoreet ac orci. Fusce consectetur erat in condimentum luctus
+        </p>
+      
+        <p>Pellentesque fermentum in nunc vitae eleifend. Quisque ligula dolor, congue vitae ex in, porttitor cursus felis. Quisque vel purus at tellus mattis aliquam ac et arcu. Sed accumsan ante nunc, ut eleifend tellus ullamcorper id. Vivamus ac congue metus, sed euismod ante. Fusce enim neque, tristique ac risus sagittis, facilisis facilisis turpis. Nunc in massa neque. Fusce sagittis quam ac lorem malesuada, vitae gravida quam dapibus. Vivamus quis mauris quis ex bibendum varius non nec lectus. Nam auctor, est eget varius consequat, mi nibh semper elit, et interdum justo nulla vitae dolor. Nunc pharetra auctor nulla, vitae pulvinar sem imperdiet nec. Nunc fringilla odio eu magna condimentum, eu auctor lorem suscipit. Aenean tortor dolor, dictum ut varius sed, interdum sit amet tortor.</p>
+      </article>
+  
+<aside id="sidebar">
+  <div class="dark">
+    <h2>WHAT DO WE DO?</h2>
+    <p>Proin et ligula vel neque pellentesque consectetur et sit amet ipsum. Curabitur condimentum gravida sagittis. Nullam id blandit ipsum. Nunc blandit pretium felis, interdum pellentesque lorem tempus non</p>
+  </div>
+</aside>
+</div>
+</section>
+
+<footer>
+      <p>Acme Web Deisgn, Copyright &copy; 2017</p>
+    </footer>
+  </body>
+</html>
